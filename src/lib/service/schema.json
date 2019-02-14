@@ -27,7 +27,7 @@
       "description": "Nest service source root directory."
     },
     "flat": {
-      "default": false,
+      "default": true,
       "description": "Flag to indicate if a directory is created."
     },
     "spec": {

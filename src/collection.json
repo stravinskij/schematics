@@ -84,6 +84,57 @@
       "factory": "./lib/library/library.factory#main",
       "description": "Create a Nest library (mono-repo).",
       "schema": "./lib/library/schema.json"
+    },
+    "app": {
+      "extends": "application"
+    },
+    "cl": {
+      "extends": "class"
+    },
+    "config": {
+      "extends": "configuration"
+    },
+    "co": {
+      "extends": "controller"
+    },
+    "d": {
+      "extends": "decorator"
+    },
+    "f": {
+      "extends": "filter"
+    },
+    "ga": {
+      "extends": "gateway"
+    },
+    "gu": {
+      "extends": "guard"
+    },
+    "in": {
+      "extends": "interceptor"
+    },
+    "iface": {
+      "extends": "interface"
+    },
+    "mi": {
+      "extends": "middleware"
+    },
+    "mo": {
+      "extends": "module"
+    },
+    "pi": {
+      "extends": "pipe"
+    },
+    "pr": {
+      "extends": "provider"
+    },
+    "r": {
+      "extends": "resolver"
+    },
+    "s": {
+      "extends": "service"
+    },
+    "lib": {
+      "extends": "library"
     }
   }
 }

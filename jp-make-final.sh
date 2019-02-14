@@ -6,9 +6,11 @@ mkdir ./schematics
 
 npm run build
 
+cp -R ./src/* ./schematics/
+
 cp -R ./dist/* ./schematics/
 
-cp ./src/collection.json ./schematics/collection.json
+
 
 cp ./LICENSE ./schematics/LICENSE
 

@@ -1,6 +1,6 @@
 {
   "name": "@mercury-tech-dev/nestjs-schematics",
-  "version": "5.12.0",
+  "version": "5.12.1",
   "description": "MTD Custom Nest - modern, fast, powerful node.js web framework (@schematics)",
   "main": "index.js",
   "publishConfig": {
